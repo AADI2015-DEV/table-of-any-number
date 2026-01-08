@@ -1,5 +1,6 @@
 {
     "name": "table of any number",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
